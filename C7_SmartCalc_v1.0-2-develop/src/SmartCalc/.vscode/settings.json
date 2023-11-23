@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.associations": {
+        "s21_calc.h": "c",
+        "string.h": "c"
+    }
+}
